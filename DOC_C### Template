@@ -11,12 +11,12 @@ Path:  nullPATH {DOC_H###}
   -------------------------
   Total Earned Build:  null
 
-Body:  null [nullBUILD_PER] {nullBUILD_SPENT}
+Body:  null [Build Per: null] {Build Spent: null}
 Pools:
-  - nullPOOL (MAX: null) [nullBUILD_PER] {nullBUILD_SPENT}
+  - nullPOOL (MAX: null) [Build Per: null] {Build Spent: null}
 
 Skills:
-  - nullSkill (Lv. null) [nullBUILD_PER] {nullBUILD_SPENT}
+  - nullSkill (Lv. null) [Build Per: null] {Build Spent: null}
     > Path/Race: DOC_H### or DOC_R###
 
 Notes:
