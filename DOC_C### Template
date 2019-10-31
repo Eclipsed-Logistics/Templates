@@ -1,0 +1,23 @@
+Character Registry Date:  MM/DD/YYYY
+Last File Update Date:  MM/DD/YYYY
+Character Name:  nullNAME
+Player Name:  nullNAME
+
+Race:  nullRACE {DOC_R###}
+Path:  nullPATH {DOC_H###}
+
+       Unspent Build:  null
++        Spent Build:  null
+  -------------------------
+  Total Earned Build:  null
+
+Body:  null [nullBUILD_PER] {nullBUILD_SPENT}
+Pools:
+  - nullPOOL (MAX: null) [nullBUILD_PER] {nullBUILD_SPENT}
+
+Skills:
+  - nullSkill (Lv. null) [nullBUILD_PER] {nullBUILD_SPENT}
+    > Path/Race: DOC_H### or DOC_R###
+
+Notes:
+  - nullNOTE
