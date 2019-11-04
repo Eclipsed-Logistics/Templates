@@ -1,9 +1,9 @@
 Race Name:  
 
 Effects:
-  - nullEFFECT [Build: null]
+  - nullEFFECT [Build: null] {Body: null}
     > nullDESC
 
 Skills:
-  - nullSKILL (LvMAX. null) [Build Per: null]
+  - nullSKILL (LvMAX. null) [Build Per: null] {Body Per: null}
     > nullDESC
