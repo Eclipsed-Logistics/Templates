@@ -1,6 +1,9 @@
 Category Name:  nullNAME
 Description:  nullDESC
 
+Pools:
+  - nullPOOL [Build Per: null]
+
 Included Paths:
   - nullPATH {DOC_H###}
     > nullDESC
