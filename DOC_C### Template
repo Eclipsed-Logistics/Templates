@@ -6,6 +6,11 @@ Player Name:  nullNAME
 Race:      nullRACE {DOC_R###}
 Category:  nullPATH {DOC_T###}
 
+Starting Build:
+  A - nullCHOICE
+  B - nullCHOICE
+  C - nullCHOICE
+
        Unspent Build:  null
 +        Spent Build:  null
   -------------------------
